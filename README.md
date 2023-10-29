@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kalakonda Neha</h1>
 <h3 align="center">A passionate frontend developer and beginner UIUX learner</h3>
-<img align="right" width="400" alt="coding image" src="https://i0.wp.com/i.imgur.com/4UUvR72.gif">
+<img align="right" width="400" alt="coding image" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-
+https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehakalakonda&label=Profile%20views&color=0e75b6&style=flat" alt="nehakalakonda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nehakalakonda" alt="nehakalakonda" /></a> </p>
