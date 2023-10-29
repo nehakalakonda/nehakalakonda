@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kalakondaneha" target="blank"><img src="https://img.shields.io/twitter/follow/kalakondaneha?logo=twitter&style=for-the-badge" alt="kalakondaneha" /></a> </p>
 
-- 🔭 I’m currently studying at **Rajalakshmi.edu.in**
+- 🔭 I’m currently studying at **Rajalakshmi Engineering college**
 
 - 🌱 I’m currently learning **UIUX,Javascript,react**
 
