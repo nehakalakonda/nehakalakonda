@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kalakonda Neha</h1>
 <h3 align="center">A passionate frontend developer and beginner UIUX learner</h3>
+
+
 # 💫 About Me:
+<br>
 🔭 I’m currently studying at Rajalakshmi Engineering college.<br>🌱 I’m currently learning UIUX, JavaScript, react.<br>💬 Ask me about Html, CSS.<br>📄 Know about my experiences file:///C:/Users/neha/Downloads/neha%20resumee.pdf<br>⚡ Fun fact At GitHub, we don't write '404' errors, we simply provide unexpected 'plot twists' in your coding adventures!<br>
 
 
